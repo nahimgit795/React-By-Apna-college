@@ -1,0 +1,11 @@
+.InfoBox {
+  text-align: center;
+  margin-top: 10px; /* small gap under SearchBox */
+}
+
+.cardContainer {
+  display: flex;
+  justify-content: center;  /* keep it centered */
+  align-items: center;
+  margin-top:2px; /* controls gap from heading inside InfoBox */
+}

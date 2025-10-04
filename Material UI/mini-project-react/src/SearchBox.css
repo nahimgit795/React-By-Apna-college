@@ -1,0 +1,10 @@
+.SearchBox {
+    display: flex;
+    flex-direction: column; /* stack items vertically */
+    align-items: center;    /* center horizontally */
+    justify-content: flex-start; /* start from top */
+      
+    padding-top: 20px;      /* space from top */
+    text-align: center;
+    padding-bottom: 10px;
+}
